@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to my blog"
+title: "Site launched"
 date: 2021-09-21
 ---
 
